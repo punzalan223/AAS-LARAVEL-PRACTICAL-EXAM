@@ -32,3 +32,16 @@ This project is built using **Laravel 11** (although the exam requires **Laravel
 3. **run 'npm run dev' on the terminal**
 4. **'php artisan serve' on the terminal**
 
+## API Routes
+Bash
+# View all positions
+http://localhost:8000/api/user-positions
+# View position details
+http://localhost:8000/api/user-position/{id}
+# Create new position
+http://localhost:8000/api/user-position
+# Update position
+http://localhost:8000/api/user-position/{id}
+# Delete position
+http://localhost:8000/api/user-position/{id}
+
