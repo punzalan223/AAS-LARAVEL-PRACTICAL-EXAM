@@ -31,6 +31,7 @@ This project is built using **Laravel 11** (although the exam requires **Laravel
 2. **run 'npm install'**
 3. **run 'npm run dev' on the terminal**
 4. **'php artisan serve' on the terminal**
+5. **run php artisan db:seed**
 
 ## API Routes
 Bash
